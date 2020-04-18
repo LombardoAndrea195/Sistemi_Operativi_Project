@@ -1,0 +1,1 @@
+/usr/bin/cc  -std=c++11 -pthread -g   CMakeFiles/Sistemi_Operativi_Lombardo.dir/client.c.o  -o Sistemi_Operativi_Lombardo 

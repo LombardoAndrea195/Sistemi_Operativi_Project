@@ -1,0 +1,4 @@
+/home/lombi/CLionProjects/Sistemi_Operativi_Lombardo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/lombi/CLionProjects/Sistemi_Operativi_Lombardo/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/lombi/CLionProjects/Sistemi_Operativi_Lombardo/cmake-build-debug/CMakeFiles/Server.dir
+/home/lombi/CLionProjects/Sistemi_Operativi_Lombardo/cmake-build-debug/CMakeFiles/Client.dir
